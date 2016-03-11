@@ -2,7 +2,8 @@ var $h1 = $('h1');
 var $ul = $('ul');
 
 $h1.html('Below ground veggies');
-$ul.addClass('undergroun-veggies');
+$ul.addClass('underground-veggies');
+$h1.html('Above ground veggies');
 
 $('.more-dinos').remove();
 
